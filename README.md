@@ -51,11 +51,11 @@ Enter your choice:
 
 ---
 
-## Project Structure
+$ tree patient-portal-cli
+patient-portal-cli
+├── main.cpp
+├── Patient.h
+├── Patient.cpp
+└── README.md
 
-patient-portal-cli/
-  main.cpp       // Contains the main menu and application logic
-  Patient.h      // Class declaration for Patient
-  Patient.cpp    // Class implementation for Patient
-  README.md      // Project documentation
 
