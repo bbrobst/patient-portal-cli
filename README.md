@@ -51,11 +51,11 @@ Enter your choice:
 
 ---
 
-$ tree patient-portal-cli
-patient-portal-cli
-├── main.cpp
-├── Patient.h
-├── Patient.cpp
-└── README.md
+trinity-patient-portal/
+│
+├── main.cpp         # Main application logic and menu \n
+├── Patient.h        # Patient class definition \n
+├── Patient.cpp      # Patient class implementation
+└── README.md        # Project documentation (this file)
 
 
