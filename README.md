@@ -33,7 +33,6 @@ A basic C++ command-line application to manage patient records. This project was
 2. View All Patients
 3. Search Patient by ID
 4. Exit
-Enter your choice: 
 
 ---
 
